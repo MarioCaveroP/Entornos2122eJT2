@@ -1,4 +1,4 @@
-public class Problema1 {
+public class Problema2 {
 
     private String[] cadena (){
         String[] cadena = new String[20];
